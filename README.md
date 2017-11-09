@@ -12,13 +12,10 @@ Build a native desktop timer app with Angular and Electron
 
 ```shell
 git clone
-cd angular-electron
+cd angular-electron-timer
 npm install
 
 # build the app
 npm run electron-build
 ```
 
-## Lessons and Screencasts
-
-Learn how to bulid this [Angular Electron](https://angularfirebase.com/lessons/desktop-apps-with-electron-and-angular/) project step-by-step. 
