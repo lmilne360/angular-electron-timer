@@ -19,7 +19,7 @@ npm install
 npm run electron-build
 ```
 
-Can be made into an OS specific exectable by use of [Electron Pacager] (https://www.npmjs.com/package/electron-packager)
+Can be made into an OS specific exectable by use of [Electron Packager](https://www.npmjs.com/package/electron-packager)
 
 ```
 npm install electron-packager --save-dev
